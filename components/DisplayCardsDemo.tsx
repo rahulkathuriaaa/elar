@@ -1,6 +1,6 @@
 "use client";
 
-import DisplayCards from "@/components/display-cards";
+import DisplayCards from "@/ui/display-cards";
 import { Sparkles } from "lucide-react";
 
 const defaultCards = [
